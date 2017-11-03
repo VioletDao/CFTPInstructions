@@ -1,6 +1,6 @@
 ### Description: 
 
-This is the step-by-step instruction on how to install the new web file-manager in CompleteFTP.
+This is the step-by-step instruction on how to install the new web file-manager (i.e. angular web file-manager) in CompleteFTP.
 
 ### Steps:
 
