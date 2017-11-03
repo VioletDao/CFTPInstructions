@@ -10,15 +10,15 @@ This is the step-by-step instruction on how to install the new web file-manager 
  
 ![Select Folders panel](/img/selectFolderPanel.png)
 
-**3.** Click *Add root folder* at the top of the panel and selecting *Windows Folder* menu item to add a root Windows folder in the virtual file-system.
+**3.** Click *Add root folder* at the top of the panel and select *Windows Folder* menu item to add a root Windows folder in the virtual file-system.
 
 ![Add root Windows folder](/img/addRootWindowsFolder.png)
 
-**4.** Then map it to the cloned folder in the Windows file-system, i.e. *completeftp-filemanager* and press *OK* button.
+**4.** Then map it to the cloned folder (i.e. *completeftp-filemanager*) in the Windows file-system. Press *OK* button.
 
 ![Mapping folder](/img/mapFolder.png)
 
-**5.** (Optional) Change the name of the newly created folder to whatever you like by clicking the ellipsis button of the *Name* property, typing a name (e.g. *NewFileManager*) and pressing *OK*. 
+**5.** (Optional) Change the name of the newly created folder to whatever you like by clicking the ellipsis button of the *Name* property, typing a name (e.g. *NewFileManager*) and pressing *OK* button. 
 
 ![Change folder name](/img/changeFolderName.png)
 
@@ -26,7 +26,7 @@ This is the step-by-step instruction on how to install the new web file-manager 
 
 ![Apply change](/img/applyChanges.png)
 
-**7.** Now, open a web browser, navigate to your CompleteFTP server, e.g. [http(s)://myserver](http(s)://myserver), and login if you haven't logged in yet.
+**7.** Now, open a web browser, navigate to your CompleteFTP server (e.g. [http(s)://myserver](http(s)://myserver)), and login if you haven't logged in yet.
 
 ![Login](/img/login.png)
 
