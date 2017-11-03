@@ -26,10 +26,10 @@ This is the step-by-step instruction on how to install the new web file-manager 
 
 ![Apply change](/img/applyChanges.png)
 
-**7.** Now, open a web browser, navigate to your CompleteFTP server, e.g. http(s)://myserver - automatic!, and login if you haven't logged in yet.
+**7.** Now, open a web browser, navigate to your CompleteFTP server, e.g. http://myserver - automatic!, and login if you haven't logged in yet.
 
 ![Login](/img/login.png)
 
-**8.** After logging in successfully, navigate to the new web file-manager at [http(s)://myserver/NewFileManager](http(s)://myserver/NewFileManager). 
+**8.** After logging in successfully, navigate to the new web file-manager at http://myserver/NewFileManager - automatic! 
 
 ![New File-Manager](/img/newFileManager.png)
