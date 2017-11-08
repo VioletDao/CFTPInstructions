@@ -1,13 +1,15 @@
 ### Description: 
-Currently, the web file-manager that CompleteFTP supports is based on the elFiner file manager (more information can be found [here](https://enterprisedt.com/products/completeftp/doc/guide/html/howtousefilemanager.html)).
-However, it's possible that you can replace the existing file-manager by a more modern, multilingual one and a better solution for mobile. And what we recommend you to try is the [angular file-manager](https://github.com/joni2back/angular-filemanager).
-You can either replace the existing file-manager by the new one or still use them both side by side.
+Currently, the web file-manager that CompleteFTP supports is based on the elFiner file manager (see [here](https://enterprisedt.com/products/completeftp/doc/guide/html/howtousefilemanager.html)).
+
+However, it's possible that you can replace that one by a more modern, multilingual file-manager and a better solution for mobile. And what we recommend you to try is the [angular file-manager](https://github.com/joni2back/angular-filemanager).
+
+You can either replace the existing file-manager by the new one or still use them both side by side for evaluating first.
 
 The following are the step-by-step instructions on how to install the angular file-manager in CompleteFTP in two different ways.
 
-### 1. Install the angular file-amanger and still keeps the existing one.
+### Steps for installing the angular file-manager side by side with the existing one.
 
-**1.** First, clone the repository of the web file-manager [here](https://github.com/EnterpriseDT/completeftp-filemanager).
+**1.** First, clone the repository of the angular file-manager [here](https://github.com/EnterpriseDT/completeftp-filemanager).
 
 **2.** Then launch the *CompleteFTP Manager* and go to the *Folders* panel.
  
@@ -38,19 +40,19 @@ The following are the step-by-step instructions on how to install the angular fi
 ![New File-Manager](/img/installFileManagerResult.png)
 
 
-### 2. Replace the existing file-amanger by the new one.
+### Steps for replacing the existing file-amanger
 
-**1.** First, clone the repository of the web file-manager [here](https://github.com/EnterpriseDT/completeftp-filemanager).
+**1.** First, clone the repository of the angular file-manager [here](https://github.com/EnterpriseDT/completeftp-filemanager).
 
 **2.** Then launch the *CompleteFTP Manager* and go to the *Folders* panel.
 
 ![Select Folders panel](/img/selectFolderPanel.png)
 
-**3.** Show the system folders by checking the *Show system users/folders/sites* in the main form's Options menu.
+**3.** In the main form's Options menu, check the *Show system users/folders/sites* menu item.
 
 ![Show system users/folders/sites](/img/showSystemFolders.png)
 
-**4.** Select the *FileManager* folder in the folder list and change its path by clicking the ellipsis button of the *Path* property.
+**4.** In the folder list, select the *FileManager* folder and change its path by clicking the ellipsis button of the *Path* property.
 
 ![Select File Manager](/img/selectFileManagerFolder.png)
 
@@ -58,7 +60,7 @@ The following are the step-by-step instructions on how to install the angular fi
 
 ![Mapping folder](/img/mapFolder.png)
 
-**6.** Click *Apply changes* button on the top-right of the CompleteFTP Manager.
+**6.** Click *Apply changes* button on the top-right of the CompleteFTP Manager and ready to be used.
 
 ![Apply change](/img/applyChanges.png)
 
