@@ -5,13 +5,13 @@ However, it's possible that you can replace that one by another specific file-ma
 
 We would like to recommned you to try it out as it's a more modern, multilingual file-manager and a better solution for mobile. 
 
-You have two options here:
+So you might need to:
 
-**1.** Try the new file-manager out first to see how it works by instaling it side by side with the existing file-manager.
+**1.** Try the new file-manager (i.e. *angular file-manager*) out first to see how it works by installing it side by side with the existing file-manager (i.e. *elFiner file-manager*).
 
 **2.** After evaluating the new file-manager, if it's what you prefer, replace the existing one by it.
 
-The following are the step-by-step instructions guiding you how to do that.
+The following step-by-step instructions will show you how to do that.
 
 ### Steps for installing the angular file-manager side by side with the existing one:
 
@@ -25,7 +25,7 @@ The following are the step-by-step instructions guiding you how to do that.
 
 ![Add root Windows folder](/img/addRootWindowsFolder.png)
 
-**4.** Then map it to the cloned folder (i.e. *completeftp-filemanager*) in the Windows file-system and press *OK* button.
+**4.** When the *Select a folder* dialog appears, select the cloned folder (i.e. *completeftp-filemanager*) in the Windows file-system and press *OK* button.
 
 ![Mapping folder](/img/mapFolder.png)
 
@@ -33,7 +33,7 @@ The following are the step-by-step instructions guiding you how to do that.
 
 ![Change folder name](/img/changeFolderName.png)
 
-**6.** Click *Apply changes* button to save the changes to the CompleteFTP server.
+**6.** Click *Apply changes* button at the top-right of the CompleteFTP Manager.
 
 ![Apply change](/img/applyChanges.png)
 
@@ -49,15 +49,15 @@ The following are the step-by-step instructions guiding you how to do that.
 ### Steps for replacing the existing file-amanger:
 
 
-**1.** Then launch the *CompleteFTP Manager* and go to the *Folders* panel.
+**1.** Launch the *CompleteFTP Manager* and go to the *Folders* panel.
 
 ![Select Folders panel](/img/selectFolderPanel.png)
 
-**2.** In the main form's Options menu, check the *Show system users/folders/sites* menu item.
+**2.** Click the *Options* menu at the bottom-left of the CompleteFTP Manager and check the *Show system users/folders/sites* menu item to make all system folders appear in the folder list.
 
 ![Show system users/folders/sites](/img/showSystemFolders.png)
 
-**3.** In the folder list, select the *FileManager* folder and change its path by clicking the ellipsis button of the *Path* property.
+**3.** Select the *FileManager* folder and change its path by clicking the ellipsis button of the *Path* property.
 
 ![Select File Manager](/img/selectFileManagerFolder.png)
 
@@ -65,7 +65,7 @@ The following are the step-by-step instructions guiding you how to do that.
 
 ![Mapping folder](/img/mapFolder.png)
 
-**5.** Click *Apply changes* button on the top-right of the CompleteFTP Manager and ready to be used.
+**5.** Click *Apply changes* button at the top-right of the CompleteFTP Manager
 
 ![Apply change](/img/applyChanges.png)
 
@@ -73,7 +73,7 @@ The following are the step-by-step instructions guiding you how to do that.
 
 ![Login](/img/login.png)
 
-**7.** After logging in successfully, the new file-manager will be loaded straight away.
+**7.** After logging in successfully, the new file-manager will be loaded straight away and ready to be used..
 
 ![New File-Manager](/img/replaceFileManagerResult.png)
 
