@@ -1,11 +1,11 @@
 ### Description: 
 Currently, the web file-manager that CompleteFTP supports is based on the elFiner file manager (see [here](https://enterprisedt.com/products/completeftp/doc/guide/html/howtousefilemanager.html)).
 
-However, it's possible that you can replace that one by another specific file-mananger called [angular file-manager](https://github.com/joni2back/angular-filemanager). 
+However, it's possible that you can replace that one by a specific file-mananger called [angular file-manager](https://github.com/joni2back/angular-filemanager). 
 
 We would like to recommned you to try it out as it's a more modern, multilingual file-manager and a better solution for mobile. 
 
-So you might need to:
+You might want to:
 
 **1.** Try the new file-manager (i.e. *angular file-manager*) out first to see how it works by installing it side by side with the existing file-manager (i.e. *elFiner file-manager*).
 
@@ -29,7 +29,7 @@ The following step-by-step instructions will show you how to do that.
 
 ![Mapping folder](/img/mapFolder.png)
 
-**5.** (Optional) Change the name of the newly created folder to whatever you like by clicking the ellipsis button of the *Name* property, typing a name (e.g. *NewFileManager*) and pressing *OK* button. 
+**5.** (Optional) Change the name of the newly created folder to whatever you like by selecting it and clicking the ellipsis button of the *Name* property, typing a name (e.g. *NewFileManager*) and pressing *OK* button. 
 
 ![Change folder name](/img/changeFolderName.png)
 
@@ -41,7 +41,7 @@ The following step-by-step instructions will show you how to do that.
 
 ![Login](/img/login.png)
 
-**8.** After logging in successfully, navigate to the new file-manager at http://myserver/NewFileManager.
+**8.** After logging in successfully, navigate to the new file-manager at http://myserver/NewFileManager and try it.
 
 ![New File-Manager](/img/installFileManagerResult.png)
 
@@ -73,11 +73,12 @@ The following step-by-step instructions will show you how to do that.
 
 ![Login](/img/login.png)
 
-**7.** After logging in successfully, the new file-manager will be loaded straight away and ready to be used..
+**7.** After logging in successfully, the new file-manager will be loaded straight away and ready to be used.
 
 ![New File-Manager](/img/replaceFileManagerResult.png)
 
-Note: in case you want to revert back to use the old file-manager (i.e. *elFiner file-Manager*), just simply change the path of the *FileManager* folder to *C:\ProgramData\Enterprise Distributed Technologies\Complete FTP\FileManager* and don't forget to click *Apply Changes* button.
+**Note:** 
+In case you want to revert back to the old file-manager (i.e. *elFiner file-Manager*), just simply change the path of the *FileManager* folder to *C:\ProgramData\Enterprise Distributed Technologies\Complete FTP\FileManager* and don't forget to click *Apply Changes* button.
 
 ![Revert back to the old file-manager](/img/revertBackOldFileManager.png) 
 
