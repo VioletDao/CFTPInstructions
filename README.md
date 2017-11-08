@@ -1,7 +1,7 @@
 ### Description: 
 Currently, the web file-manager that CompleteFTP supports is based on the elFiner file manager (see [here](https://enterprisedt.com/products/completeftp/doc/guide/html/howtousefilemanager.html)).
 
-However, it's possible that you can replace that one by a specific file-mananger called [angular file-manager](https://github.com/joni2back/angular-filemanager). 
+However, it's possible that you can replace that one by a specific file-manager called [angular file-manager](https://github.com/joni2back/angular-filemanager). 
 
 We would like to recommend you to try it out as it's a more modern, multilingual file-manager and a better solution for mobile. 
 
@@ -78,7 +78,7 @@ The following step-by-step instructions will show you how to do that.
 ![New File-Manager](/img/replaceFileManagerResult.png)
 
 **Note:** 
-In case you want to revert back to the old file-manager (i.e. *elFiner file-Manager*), just simply change the path of the *FileManager* folder to *C:\ProgramData\Enterprise Distributed Technologies\Complete FTP\FileManager* and don't forget to click *Apply Changes* button.
+in case you want to revert to the old file-manager (i.e. *elFiner file-Manager*), just simply change the path of the *FileManager* folder to *C:\ProgramData\Enterprise Distributed Technologies\Complete FTP\FileManager* and don't forget to click *Apply Changes* button.
 
 ![Revert back to the old file-manager](/img/revertBackOldFileManager.png) 
 
