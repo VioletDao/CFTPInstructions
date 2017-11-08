@@ -1,11 +1,13 @@
 ### Description: 
 Currently, the web file-manager that CompleteFTP supports is based on the elFiner file manager (see [here](https://enterprisedt.com/products/completeftp/doc/guide/html/howtousefilemanager.html)).
 
-However, it's possible that you can replace that one by a more modern, multilingual file-manager and a better solution for mobile. And what we recommend you to try is the [angular file-manager](https://github.com/joni2back/angular-filemanager).
+However, it's possible that you can replace that one by another better file-mananger called angular file-manager. We would like to recommned you to try it out as it's a more modern, multilingual file-manager and a better solution for mobile. See [here](https://github.com/joni2back/angular-filemanager) for more information.
 
-You can either replace the existing file-manager by the new one or still use them both side by side for evaluating first.
+You have 2 options here:
+**1.** Try the new file-manager out first to see how it works by instaling it side by side with the existing file-manager.
+**2.** If the new file-manager is what you prefer, replace the existing by it.
 
-The following are the step-by-step instructions on how to install the angular file-manager in CompleteFTP in two different ways.
+The following are the step-by-step instructions on how to install the angular file-manager in CompleteFTP in two different ways above.
 
 ### Steps for installing the angular file-manager side by side with the existing one.
 
@@ -40,7 +42,7 @@ The following are the step-by-step instructions on how to install the angular fi
 ![New File-Manager](/img/installFileManagerResult.png)
 
 
-### Steps for replacing the existing file-amanger
+### Steps for replacing the existing file-amanger.
 
 **1.** First, clone the repository of the angular file-manager [here](https://github.com/EnterpriseDT/completeftp-filemanager).
 
