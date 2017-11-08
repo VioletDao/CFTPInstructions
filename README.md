@@ -71,5 +71,8 @@ The following are the step-by-step instructions on how to install the angular fi
 **8.** After logging in successfully, the new file-manager will be loaded straight away.
 
 ![New File-Manager](/img/replaceFileManagerResult.png)
- 
+
+Note: in case you want to revert back to use the old file-manager (i.e. *elFiner file-Manager*), just simply change the path of the *FileManager* folder to *C:\ProgramData\Enterprise Distributed Technologies\Complete FTP\FileManager* and don't forget to click *Apply Changes* button.
+
+![Revert back to the old file-manager](/img/revertBackOldFileManager.png) 
 
